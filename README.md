@@ -1,2 +1,2 @@
 # Reference-Books-For-CS
-The repository contains the necessary for computer science study 
+The repository contains the necessary books for computer science study 
